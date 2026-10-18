@@ -1,0 +1,32 @@
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit Local Cache
+.streamlit/cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/

@@ -1,0 +1,21 @@
+{
+    "metrics": {
+        "test_mae": 1.647,
+        "test_mse": 4.3059,
+        "test_rmse": 2.0751,
+        "test_r2": 0.9884,
+        "test_adjusted_r2": 0.9884,
+        "train_r2": 0.9887,
+        "train_rmse": 2.0358
+    },
+    "formula": {
+        "intercept": -33.9813,
+        "coefficients": {
+            "Hours Studied": 2.851,
+            "Previous Scores": 1.0184,
+            "Sleep Hours": 0.4721,
+            "Sample Question Papers Practiced": 0.1887,
+            "Extracurricular Activities_Yes": 0.5738
+        }
+    }
+}
